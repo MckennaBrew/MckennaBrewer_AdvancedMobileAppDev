@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Egypt</string>
+		<key>cities</key>
+		<array>
+			<string>Cairo</string>
+			<string>Giza</string>
+			<string>Luxor</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Costa Rica</string>
+		<key>cities</key>
+		<array>
+			<string>San Jose</string>
+			<string>Puerto Viejo</string>
+			<string>Manuel Antonio</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Iceland</string>
+		<key>cities</key>
+		<array>
+			<string>Reykjavík</string>
+			<string>Hafnarfjörður</string>
+			<string>Akureyri</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>China</string>
+		<key>cities</key>
+		<array>
+			<string>Hangzhou</string>
+			<string>Shanghai</string>
+			<string>Beijing</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Italy</string>
+		<key>cities</key>
+		<array>
+			<string>Rome</string>
+			<string>Florence</string>
+			<string>Venice</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>France</string>
+		<key>cities</key>
+		<array>
+			<string>Paris</string>
+			<string>Marseille</string>
+			<string>Bordeaux</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Japan</string>
+		<key>cities</key>
+		<array>
+			<string>Tokyo</string>
+			<string>Kyoto</string>
+			<string>Osaka</string>
+		</array>
+	</dict>
+</array>
+</plist>
