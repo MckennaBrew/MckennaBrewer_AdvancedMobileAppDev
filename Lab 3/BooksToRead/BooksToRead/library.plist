@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>genre</key>
+		<string>Romance</string>
+		<key>books</key>
+		<array>
+			<string>&apos;The Princess Bride&apos; by William Goldman</string>
+			<string>&apos;Crazy Rich Asians&apos; by Kevin Kwan</string>
+			<string>Pride and Prejudice by Jane Austen</string>
+			<string>&apos;Jane Eyre&apos; by Charlotte Brontë</string>
+			<string>&apos;Outlander&apos; by Diana Gabaldon</string>
+			<string>&apos;The Kiss Quotient&apos; by Helen Hoang</string>
+			<string>&apos;Anna Karenina&apos; by Leo Tolstoy</string>
+			<string>&apos;Me Before You&apos; by Jojo Moyes</string>
+			<string>&apos;One Day&apos; by David Nicholls</string>
+			<string>&apos;The Bridges of Madison County&apos; by Robert James Waller</string>
+			<string>&apos;A Discovery of Witches&apos; by Deborah Harkness</string>
+			<string>&apos;Wuthering Heights&apos; by Emily Brontë</string>
+			<string>&apos;The Time Traveler&apos;s Wife&apos; by Audrey Niffenegger</string>
+			<string>&apos;The Viscount Who Loved Me&apos; by Julia Quinn</string>
+			<string>&apos;The Notebook&apos; by Nicholas Sparks</string>
+		</array>
+	</dict>
+	<dict>
+		<key>genre</key>
+		<string>Mystery</string>
+		<key>books</key>
+		<array>
+			<string>&apos;The Girl on the Train&apos; by Paula Hawkins</string>
+			<string>&apos;The Silence of the Lambs&apos; by Thomas Harris</string>
+			<string>&apos;The Girl with the Dragon Tattoo&apos; by Stieg Larsson</string>
+			<string>&apos;Gone Girl&apos; by Gillian Flynn</string>
+			<string>&apos;In Cold Blood&apos; by Truman Capote</string>
+			<string>&apos;Big Little Lies&apos; by Liane Moriarty</string>
+			<string>&apos;The Da Vinci Code&apos; by Dan Brown</string>
+			<string>&apos;The Maltese Falcon&apos; by Dashiell Hammett</string>
+			<string>&apos;Rebecca&apos; by Daphne du Maurier</string>
+			<string>&apos;Tinker, Tailor, Soldier, Spy&apos; by John le Carré</string>
+			<string>&apos;And Then There Were None&apos; by Agatha Christie</string>
+			<string>&apos;Anatomy of a Murder&apos; by Robert Traver</string>
+			<string>&apos;Woman in White&apos; by Wilkie Collins</string>
+			<string>&apos;The Postman Always Rings Twice&apos; by James M. Cain</string>
+			<string>&apos;The Big Sleep&apos; by Raymond Chandler</string>
+		</array>
+	</dict>
+	<dict>
+		<key>genre</key>
+		<string>Horror</string>
+		<key>books</key>
+		<array>
+			<string>&apos;The Haunting of Hill House&apos; by Shirley Jackson</string>
+			<string>&apos;Dracula&apos; by Bram Stoker</string>
+			<string>&apos;It&apos; by Stephen King</string>
+			<string>&apos;The Amityville Horror&apos; by Jay Anson</string>
+			<string>&apos;Frankenstein&apos; by Mary Shelley</string>
+			<string>&apos;Something Wicked This Way Comes&apos; by Ray Bradbury</string>
+			<string>&apos;The Exorcist&apos; by William Peter Blatty</string>
+			<string>&apos;Salem’s Lot&apos; by Stephen King</string>
+			<string>&apos;The Shining&apos; by Stephen King </string>
+			<string>&apos;Pet Sematary&apos; by Stephen King</string>
+			<string>&apos;Rosemary’s Baby&apos; by Ira Levin</string>
+			<string>&apos;American Psycho&apos; by Bret Easton Ellis</string>
+			<string>Carrie&apos; by Stephen King</string>
+			<string>&apos;Hell House&apos; by Richard Matheson</string>
+			<string>&apos;Coraline&apos; By Neil Gaiman</string>
+		</array>
+	</dict>
+	<dict>
+		<key>genre</key>
+		<string>Young Adult</string>
+		<key>books</key>
+		<array>
+			<string>&apos;The Book Thief&apos; by Markus Zusak</string>
+			<string>&apos;Harry Potter&apos; by J.K. Rowling</string>
+			<string>&apos;The Giver&apos; by Lois Lowry</string>
+			<string>&apos;The Hunger Games&apos; by Suzanne Collins</string>
+			<string>&apos;Looking for Alaska&apos; by John Green</string>
+			<string>&apos;His Dark Materials&apos; by Phillip Pullman</string>
+			<string>&apos;The Fault In Our Stars&apos; by John Green</string>
+			<string>&apos;The Outsiders&apos; by S.E. Hinton</string>
+			<string>&apos;Twilight&apos; by Stephenie Meyer</string>
+			<string>&apos;The Outsiders&apos; by S.E. Hinton</string>
+			<string>&apos;The Maze Runner&apos; by James Dashner</string>
+			<string>&apos;Divergent&apos; by Veronica Roth</string>
+			<string>&apos;A Wrinkle in Time&apos; by Madeleine L&apos;Engle</string>
+			<string>&apos;The Princess Diaries&apos; by Meg Cabot</string>
+			<string>&apos;Holes&apos; by Louis Sachar</string>
+		</array>
+	</dict>
+	<dict>
+		<key>genre</key>
+		<string>Inspirational</string>
+		<key>books</key>
+		<array>
+			<string>&apos;Smarter, Faster, Better&apos; by Charles Duhigg</string>
+			<string>&apos;Love Yourself Like Your Life Depends On It&apos; by Kamal Ravikant</string>
+			<string>&apos;Simplify&apos; by Joshua Becker</string>
+			<string>&apos;An Astronaut’s Guide to Life on Earth&apos; by Chris Hadfield</string>
+			<string>&apos;Think and Grow Rich&apos; by Napoleon Hill</string>
+			<string>&apos;The 48 Laws of Power&apos; by Robert Greene</string>
+			<string>&apos;Whatcha Gonna Do with That Duck?&apos; by Seth Godin</string>
+			<string>&apos;Man’s Search for Meaning&apos; by Victor Frankl</string>
+			<string>&apos;The Power of Now&apos; by Eckhart Tolle</string>
+			<string>&apos;The 7 Habits of Highly Effective People&apos; by Stephen R. Covey</string>
+			<string>&apos;The Power of Positive Thinking&apos; by Dr. Norman Vincent Peale</string>
+			<string>&apos;Awaken The Giant Within&apos; by Anthony Robbins</string>
+			<string>&apos;The Four Agreements&apos; by Don Miguel Ruiz</string>
+			<string>&apos;Make Your Bed&apos; by Admiral William H. McRaven</string>
+			<string>&apos;Girl, Stop Apologizing&apos; by Rachel Hollis</string>
+		</array>
+	</dict>
+	<dict>
+		<key>genre</key>
+		<string>Fantasy</string>
+		<key>books</key>
+		<array>
+			<string>&apos;Wizard’s First Rule&apos; by Terry Goodkind</string>
+			<string>&apos;A Wizard of Earthsea&apos; by Ursula K. Le Guin</string>
+			<string>&apos;The Gunslinger&apos; by Stephen King</string>
+			<string>&apos;The Blade Itself&apos; by Joe Abercrombie</string>
+			<string>&apos;The Eye of the World&apos; by Robert Jordan</string>
+			<string>&apos;Dragonflight&apos; by Anne McCaffrey</string>
+			<string>&apos;The Name of the Wind&apos; by Patrick Rothfuss</string>
+			<string>&apos;The Lies of Locke Lamora&apos; by Scott Lynch</string>
+			<string>&apos;Colour of Magic&apos; by Terry Pratchett</string>
+			<string>&apos;Artemis Fowl&apos; by Eoin Colfer</string>
+			<string>&apos;A Game of Thrones&apos; by George R. R. Martin</string>
+			<string>&apos;The Fellowship of the Ring&apos; by J. R. R. Tolkien</string>
+			<string>&apos;The Lion, the Witch and the Wardrobe&apos; by C. S. Lewis</string>
+			<string>&apos;Eragon&apos; by Christopher Paolini</string>
+			<string>&apos;The Way of Kings&apos; by Brandon Sanderson</string>
+		</array>
+	</dict>
+	<dict>
+		<key>genre</key>
+		<string>Western</string>
+		<key>books</key>
+		<array>
+			<string>&apos;Shane&apos; by Jack Schaefer</string>
+			<string>&apos;Riders of the Purple Sage&apos; by Zane Grey</string>
+			<string>&apos;Sea of Grass&apos; by Conrad Richter</string>
+			<string>&apos;The Ox-bow Incident&apos; by Walter Van Tilburg Clark</string>
+			<string>&apos;Big Sky&apos; by A. B. Guthrie, Jr.</string>
+			<string>&apos;Death Comes for the Archbishop&apos; by Willa Cather</string>
+			<string>&apos;Centennial&apos; by James A. Michener</string>
+			<string>&apos;True Grit&apos; by Charles Portis</string>
+			<string>&apos;Blood Meridian&apos; by Cormac McCarthy </string>
+			<string>&apos;Little House on the Prairie&apos; by Laura Ingalls Wilder</string>
+			<string>&apos;The Call of The Wild&apos; by Jack London</string>
+			<string>&apos;Lonesome Dove&apos; by Larry McMurtry</string>
+			<string>&apos;The Virginian&apos; by Owen Wister</string>
+			<string>&apos;Knights of the Range&apos; by Zane Grey</string>
+			<string>&apos;All the Pretty Horses&apos; by Cormac McCarthy</string>
+		</array>
+	</dict>
+	<dict>
+		<key>genre</key>
+		<string>Sci-fi</string>
+		<key>books</key>
+		<array>
+			<string>&apos;2001: A Space Odyssey&apos; by Arthur C. Clarke</string>
+			<string>&apos;The Man in the High Castle&apos; by Phillip K. Dick</string>
+			<string>&apos;The Moon Is a Harsh Mistress&apos; by </string>
+			<string>&apos;Brave New World&apos; by Aldous Huxley</string>
+			<string>&apos;The Martian&apos; by Andy Weir</string>
+			<string>&apos;Jurassic Park&apos; by Michael Crichton</string>
+			<string>&apos;Hyperion&apos; by Dan Simmons</string>
+			<string>&apos;The War of the Worlds&apos; by H.G. Wells</string>
+			<string>&apos;20,000 Leagues Under the Sea&apos; by Jules Verne</string>
+			<string>&apos;Ready Player One&apos; by Ernest Cline</string>
+			<string>&apos;The Hitchhiker’s Guide to the Galaxy&apos; by Douglas Adams</string>
+			<string>&apos;Ender’s Game&apos; by Orson Scott Card</string>
+			<string>&apos;Dune&apos; by Frank Herbert</string>
+			<string>&apos;The Foundation Trilogy&apos; by Isaac Asimov</string>
+			<string>&apos;1984&apos; by George Orwell</string>
+		</array>
+	</dict>
+</array>
+</plist>
