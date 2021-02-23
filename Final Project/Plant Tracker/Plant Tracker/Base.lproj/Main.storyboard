@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Azk-Vc-QQb">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--My Plants-->
+        <scene sceneID="w2f-q8-WIJ">
+            <objects>
+                <viewController id="bDw-4z-yzz" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Bvu-zf-NPa">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="vbq-kb-6Ro"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="My Plants" id="gzI-O5-cEY"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ojd-rg-cPW" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="567" y="-593"/>
+        </scene>
+        <!--Home-->
+        <scene sceneID="aSO-Te-B5t">
+            <objects>
+                <viewController id="jeD-Rs-CYL" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="a2B-AZ-Mc9">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="aGv-68-IBS"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Home" id="21G-Oc-Wp8"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iUy-ve-6dZ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="567" y="-1324"/>
+        </scene>
+        <!--Tab Bar Controller-->
+        <scene sceneID="YZM-9F-gSG">
+            <objects>
+                <tabBarController id="Azk-Vc-QQb" sceneMemberID="viewController">
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="yJX-Zb-SnC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="49"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="jeD-Rs-CYL" kind="relationship" relationship="viewControllers" id="TvJ-x8-3Ld"/>
+                        <segue destination="bDw-4z-yzz" kind="relationship" relationship="viewControllers" id="eRx-Np-LYn"/>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="viewControllers" id="yW6-UM-k71"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="M1j-Md-Gsi" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-478" y="-460"/>
+        </scene>
+        <!--Quiz-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="QuizViewController" customModule="Plant_Tracker" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Welcome! This quiz will help you decide what plant is best for you!" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="T5T-yD-ZzY">
+                                <rect key="frame" x="35" y="104" width="344" height="54.5"/>
+                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle2"/>
+                                <color key="textColor" red="0.28665028511404561" green="0.35815263605442177" blue="0.2187703206282513" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="59" translatesAutoresizingMaskIntoConstraints="NO" id="i36-ex-Uj6">
+                                <rect key="frame" x="20" y="288.5" width="374" height="217"/>
+                                <subviews>
+                                    <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mF9-GN-aSe">
+                                        <rect key="frame" x="0.0" y="0.0" width="374" height="33"/>
+                                        <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
+                                        <state key="normal" title="test">
+                                            <color key="titleColor" red="0.396078431372549" green="0.75294117647058822" blue="0.37254901960784315" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="makeQuiz:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3NR-E4-QE3"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QjN-lU-Dty">
+                                        <rect key="frame" x="0.0" y="92" width="374" height="33"/>
+                                        <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
+                                        <state key="normal" title="test">
+                                            <color key="titleColor" red="0.39607843139999999" green="0.75294117650000003" blue="0.37254901959999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="makeQuiz:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Oyz-iS-aYj"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YI0-St-wLo">
+                                        <rect key="frame" x="0.0" y="184" width="374" height="33"/>
+                                        <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
+                                        <state key="normal" title="test">
+                                            <color key="titleColor" red="0.39607843139999999" green="0.75294117650000003" blue="0.37254901959999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="makeQuiz:" destination="BYZ-38-t0r" eventType="touchUpInside" id="lhG-BS-R1K"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="i36-ex-Uj6" firstAttribute="top" secondItem="T5T-yD-ZzY" secondAttribute="bottom" constant="130" id="0bg-we-Ify"/>
+                            <constraint firstItem="i36-ex-Uj6" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="KLU-Ru-jgm"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="i36-ex-Uj6" secondAttribute="trailing" constant="20" id="VJt-Ow-F4a"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="T5T-yD-ZzY" secondAttribute="trailing" constant="35" id="hRM-ZH-00y"/>
+                            <constraint firstItem="T5T-yD-ZzY" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="60" id="jMf-xJ-ydg"/>
+                            <constraint firstItem="T5T-yD-ZzY" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="35" id="pXF-bc-Aax"/>
+                        </constraints>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Quiz" id="xGW-WY-oyk"/>
+                    <connections>
+                        <outlet property="answer1Button" destination="mF9-GN-aSe" id="CIx-lh-CnI"/>
+                        <outlet property="answer2Button" destination="QjN-lU-Dty" id="UBX-Iq-WJD"/>
+                        <outlet property="answer3Button" destination="YI0-St-wLo" id="aZ7-hP-i9P"/>
+                        <outlet property="questionLabel" destination="T5T-yD-ZzY" id="bHC-bo-9Ab"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="566.66666666666674" y="131.91964285714286"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

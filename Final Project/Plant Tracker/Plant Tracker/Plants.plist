@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>ZZ Plant</string>
+		<key>scientificName</key>
+		<string>Zamioculcas Zamiifolia</string>
+		<key>water</key>
+		<string>very little</string>
+		<key>sun</key>
+		<string>low to bright indirect light</string>
+		<key>careLevel </key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Snake Plant</string>
+		<key>scientificName</key>
+		<string>Sansevieria Trifasciata</string>
+		<key>water</key>
+		<string>let soil dry between watering</string>
+		<key>sun</key>
+		<string>low to bright indirect light</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Samurai Snake Plant</string>
+		<key>scientificName</key>
+		<string>Sansevieria ehrenbergii</string>
+		<key>water </key>
+		<string>let soil dry between watering</string>
+		<key>sun</key>
+		<string>moderate to bright indirect light</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lucky Bamboo Plant</string>
+		<key>scientificName</key>
+		<string>Dracaena braunii</string>
+		<key>water </key>
+		<string>water weekly</string>
+		<key>sun</key>
+		<string>moderate to full indirect light</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hedgehog Aloe Plant</string>
+		<key>scientificName</key>
+		<string>Aloe humilis ‘hedgehog</string>
+		<key>water </key>
+		<string>let soil dry between watering</string>
+		<key>sun</key>
+		<string>bright indirect to full sun</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Heartleaf Plant</string>
+		<key>scientificName</key>
+		<string>Philodendron bipinnatifidum</string>
+		<key>water </key>
+		<string>keep soil moist </string>
+		<key>sun</key>
+		<string>low to bright indirect light</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bird of Paradise Plant</string>
+		<key>scientificName</key>
+		<string>Strelitzia nicolai</string>
+		<key>water </key>
+		<string>keep soil moist</string>
+		<key>sun</key>
+		<string>bright light to full sun</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Silver Pothos Plant</string>
+		<key>scientificName</key>
+		<string>Scindapsus pictus</string>
+		<key>water </key>
+		<string>let top 50% of soil dry between watering</string>
+		<key>sun</key>
+		<string>low to bright indirect light</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Coconut Palm</string>
+		<key>scientificName</key>
+		<string>Cocos nucifera</string>
+		<key>water </key>
+		<string>let soil dry between watering</string>
+		<key>sun</key>
+		<string>bright light to full sun</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Parlor Palm</string>
+		<key>scientificName</key>
+		<string>Chamaedorea elegans</string>
+		<key>water </key>
+		<string>let soil dry between watering</string>
+		<key>sun</key>
+		<string>low to bright indirect light</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fiddle Lead Fig</string>
+		<key>scientificName</key>
+		<string>Ficus lyrata</string>
+		<key>water </key>
+		<string>let soil dry between watering</string>
+		<key>sun</key>
+		<string>bright indirect light</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Spiderworts Plant</string>
+		<key>scientificName</key>
+		<string>Tradescantia zebrina</string>
+		<key>water </key>
+		<string>let soil dry between watering</string>
+		<key>sun</key>
+		<string>low to bright indirect light</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Philodendron Brasil Plant</string>
+		<key>scientificName</key>
+		<string>Philodendron ‘brasil’</string>
+		<key>water </key>
+		<string>let top 50% of soil dry between watering</string>
+		<key>sun</key>
+		<string>low to bright indirect light</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Happy Plant</string>
+		<key>scientificName</key>
+		<string>Dracaena deremensis ‘warneckii ulyses’</string>
+		<key>water </key>
+		<string>let soil dry between watering</string>
+		<key>sun</key>
+		<string>low to bright indirect light</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Moonshine Snake Plant</string>
+		<key>scientificName</key>
+		<string>Sansevieria robusta ‘moonshine’</string>
+		<key>water </key>
+		<string>let soil dry between watering</string>
+		<key>sun</key>
+		<string>low to bright indirect light</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Prickly Pear Cactus</string>
+		<key>scientificName</key>
+		<string>Opuntia</string>
+		<key>water </key>
+		<string>water sparingly</string>
+		<key>sun</key>
+		<string>bright to full indirect light</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Spring Snow Chinese Evergreen</string>
+		<key>scientificName</key>
+		<string>Aglaonema hybrida ‘spring snow’</string>
+		<key>water </key>
+		<string>keep soil moist</string>
+		<key>sun</key>
+		<string>low to bright indirect light</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Chinese Fan Palm</string>
+		<key>scientificName</key>
+		<string>Livistona chinensis</string>
+		<key>water </key>
+		<string>let top 50% of soil dry between watering</string>
+		<key>sun</key>
+		<string>low to bright indirect light</string>
+		<key>careLevel</key>
+		<string>1 - very easy</string>
+	</dict>
+</array>
+</plist>
