@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Tucker</string>
+		<key>description</key>
+		<string>A sweet old man who loves to run like crazy and stick to you like glue at all other times.</string>
+		<key>arrayName</key>
+		<string>tuckerImages</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Duke</string>
+		<key>description</key>
+		<string>A sometimes sweet sometimes sassy dog who does what he wants when he wants to.</string>
+		<key>arrayName</key>
+		<string>dukeImages</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Moose</string>
+		<key>description</key>
+		<string>An energetic puppy who thinks hes a tough guy but is really a sofite. </string>
+		<key>arrayName</key>
+		<string>mooseImages</string>
+	</dict>
+</array>
+</plist>
